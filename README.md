@@ -1,5 +1,5 @@
 # react-native-countdown
-React Native CountDown
+React Native CountDown Timer
 
 ## Installation
 Run `npm install react-native-countdown-component --save` OR `yarn add react-native-countdown-component --save`
